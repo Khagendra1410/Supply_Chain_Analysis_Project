@@ -2,7 +2,7 @@
 
 ## Overview
 The Interactive Supply Chain Analysis Project focuses on analyzing key dimensions of a supply chain utilizing an Excel dataset. The primary goal of this project is to unveil actionable insights and present them through an interactive Power BI dashboard. This repository documents the analysis, visualizations, and insightful findings derived from the dataset.
-
+![Image](https://github.com/user-attachments/assets/26d12316-2b65-43b7-8cb7-4bf0538b633e)
 ## Dataset
 The project utilizes an Excel file containing critical information pertaining to the supply chain, including product details, sales metrics, customer demographics, and shipment data. 
 
